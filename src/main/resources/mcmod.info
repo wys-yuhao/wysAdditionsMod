@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wys",
+  "name": "wys",
+  "description": "wys",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["wys_yuhao_"],
+  "credits": "wys_yuhao_",
+  "logoFile": "assets/additions/textures/gui/additions_title_big",
+  "screenshots": [],
+  "dependencies": []
+}
+]
